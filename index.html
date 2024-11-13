@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VERDULERIA VIRTUAL</title>
+</head>
+<body>
+    <h1>Bienvenido a la Verdulería Virtual!</h1>
+    <input type="text" id="nombrePersona" placeholder="Ingresa tu nombre" />
+    <button onclick="saludarUsuario()">Iniciar</button>
+    
+    <div id="productos" style="display:none;">
+        <h2>Productos Disponibles</h2>
+        <!-- Lista de productos se mostrará aquí -->
+    </div>
+
+    <div id="carrito" style="display:none;">
+        <h2>Carrito de Compras</h2>
+        <!-- Carrito de compras se actualizará aquí -->
+    </div>
+
+    <button id="finalizarCompra" style="display:none;">Finalizar Compra</button>
+    <div id="resumenCompra"></div>
+    
+    <script src="./JS/script.js"></script>
+</body>
+</html>
