@@ -1,0 +1,17 @@
+[
+    { "nombre": "Manzana", "precio": 500 },
+    { "nombre": "Banana", "precio": 400 },
+    { "nombre": "Naranjas", "precio": 380 },
+    { "nombre": "Zanahoria", "precio": 200 },
+    { "nombre": "Tomate", "precio": 700 },
+    { "nombre": "Lechuga", "precio": 1000 },
+    { "nombre": "Papa", "precio": 1200 },
+    { "nombre": "Cebolla", "precio": 700 },
+    { "nombre": "Ajo", "precio": 1200 },
+    { "nombre": "Pepino", "precio": 460 },
+    { "nombre": "Huevos x 6un", "precio": 1200 },
+    { "nombre": "Frutilla x 500gr", "precio": 3600 },
+    { "nombre": "Ciruela", "precio": 350 },
+    { "nombre": "Pera", "precio": 520 },
+    { "nombre": "Mandarina", "precio": 280 }
+]
